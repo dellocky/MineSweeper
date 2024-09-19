@@ -1,0 +1,5 @@
+Rows = 14
+Columns = 15
+BombChance = 15
+BombNum = 32
+PlacementType : False
